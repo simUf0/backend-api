@@ -1,0 +1,19 @@
+{
+    "database": {
+        "options": {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "database": ""
+        }
+    },
+    "paths": {
+        "services": "./app/services",
+        "workers": "./app/workers"
+    },
+    "server": {
+        "scheme": "http://",
+        "hostname": "localhost",
+        "port": 8080
+    }
+}
